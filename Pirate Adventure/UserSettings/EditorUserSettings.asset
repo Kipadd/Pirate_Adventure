@@ -5,17 +5,38 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
-    RecentlyUsedSceneGuid-0:
-      value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
+    GraphicsSettingsInspector_UserSettings:
+      value: 18134705175a055722080a3115371d4a0d55006876786860616b0471b8b07a68ffab74f9ee2a3a30300cea1a11320d0beb1a0c25f7060f494b4cdf1b18f3045e38cb5ad8
       flags: 0
-    RecentlyUsedSceneGuid-1:
+    RecentlyUsedSceneGuid-0:
       value: 0157525057510a0d585e597a12260d444e4f492e7e7c24632c7b1865b6b2616f
       flags: 0
-    RecentlyUsedSceneGuid-2:
+    RecentlyUsedSceneGuid-1:
       value: 5255015354030b0b0f560971127a5c444e4f417b292d75687c2b4d31b4b6356c
       flags: 0
-    RecentlyUsedSceneGuid-3:
+    RecentlyUsedSceneGuid-2:
       value: 0503065e0305085f0e5f582743775e404f4e1d73787022697d7e4564b7e46c3c
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5709035552065c0b090c5c2614710e444f164b2b757d27617a784564b7b03068
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 55060d03570d0d5f545c097548750c4444154f73787c72647a7b4f6be4b7643b
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5400505e0457590a0f0f5d7a41730e4445151b7f7d71703274791e6ae6e36c68
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 5100075f5054585a0b580a7746755d44434e1b2c7e2e74657b794f63e6e36c69
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 5607010207015c0b5c5e5e2745720e44464e4e7b752b763578784d35b0e66569
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 5054555551565b0a550c0a7315275a44174f4028797e77322b781c63e1b93761
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 5205515353560a0f0b0a0d7644730d44174e192e7c2b71692f784a66e3b8323c
       flags: 0
     UnityEditor.ShaderGraph.Blackboard:
       value: 18135939215a0a5004000b0e15254b524c030a3f2964643d120d1230e9e93a3fd6e826abbd2e2d293c4ead313b08042de6030a0afa240c0d020be94c4ba75e435d8715fa32c70d15d11612dacc11fee5d3c5d1fe9ab1bf968e93e2ffcbc3e7e2f0b3ffe0e8b0be9af8ffaeffff8e85dd8390e3949c8899daa7
