@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE4509ED-39ED-D4DA-908D-9C0C08B1DDD4}|Assembly-CSharp.csproj|d:\\unitygithub\\pirate_adventure\\pirate adventure\\assets\\aquas-lite\\scripts\\aquas_lite_reflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE4509ED-39ED-D4DA-908D-9C0C08B1DDD4}|Assembly-CSharp.csproj|solutionrelative:assets\\aquas-lite\\scripts\\aquas_lite_reflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4509ED-39ED-D4DA-908D-9C0C08B1DDD4}|Assembly-CSharp.csproj|d:\\unitygithub\\pirate_adventure\\pirate adventure\\assets\\scripts\\player\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4509ED-39ED-D4DA-908D-9C0C08B1DDD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4509ED-39ED-D4DA-908D-9C0C08B1DDD4}|Assembly-CSharp.csproj|d:\\unitygithub\\pirate_adventure\\pirate adventure\\assets\\scripts\\player\\walkmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4509ED-39ED-D4DA-908D-9C0C08B1DDD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\walkmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4509ED-39ED-D4DA-908D-9C0C08B1DDD4}|Assembly-CSharp.csproj|D:\\UnityGitHub\\Pirate_Adventure\\Pirate Adventure\\assets\\scripts\\player\\imovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4509ED-39ED-D4DA-908D-9C0C08B1DDD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\imovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +36,48 @@
               "RelativeDocumentMoniker": "Assets\\AQUAS-Lite\\Scripts\\AQUAS_Lite_Reflection.cs",
               "ToolTip": "D:\\UnityGitHub\\Pirate_Adventure\\Pirate Adventure\\Assets\\AQUAS-Lite\\Scripts\\AQUAS_Lite_Reflection.cs",
               "RelativeToolTip": "Assets\\AQUAS-Lite\\Scripts\\AQUAS_Lite_Reflection.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAADgv2UAAAAMAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwFcAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T12:14:38.263Z",
+              "WhenOpened": "2024-08-07T12:40:01.496Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterMovement.cs",
+              "DocumentMoniker": "D:\\UnityGitHub\\Pirate_Adventure\\Pirate Adventure\\Assets\\Scripts\\Player\\CharacterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CharacterMovement.cs",
+              "ToolTip": "D:\\UnityGitHub\\Pirate_Adventure\\Pirate Adventure\\Assets\\Scripts\\Player\\CharacterMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\CharacterMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:24:04.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WalkMovement.cs",
+              "DocumentMoniker": "D:\\UnityGitHub\\Pirate_Adventure\\Pirate Adventure\\Assets\\Scripts\\Player\\WalkMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\WalkMovement.cs",
+              "ToolTip": "D:\\UnityGitHub\\Pirate_Adventure\\Pirate Adventure\\Assets\\Scripts\\Player\\WalkMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\WalkMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:20:26.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovement.cs",
+              "DocumentMoniker": "D:\\UnityGitHub\\Pirate_Adventure\\Pirate Adventure\\Assets\\Scripts\\Player\\IMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\IMovement.cs",
+              "ToolTip": "D:\\UnityGitHub\\Pirate_Adventure\\Pirate Adventure\\Assets\\Scripts\\Player\\IMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\IMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:18:31.813Z"
             }
           ]
         }

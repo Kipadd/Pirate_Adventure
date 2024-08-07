@@ -537,6 +537,7 @@ GameObject:
   - component: {fileID: 1487172642}
   - component: {fileID: 1487172641}
   - component: {fileID: 1487172640}
+  - component: {fileID: 1487172644}
   m_Layer: 0
   m_Name: Character
   m_TagString: Untagged
@@ -626,14 +627,26 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1487172639}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0.6984397, z: -0, w: 0.71566886}
+  m_LocalRotation: {x: -0, y: 0.68942714, z: -0, w: 0.72435504}
   m_LocalPosition: {x: 535.6, y: 0.912, z: 129.6}
   m_LocalScale: {x: 0.45, y: 1.8, z: 0.25}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1787571099}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 88.604, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 87.17, z: 0}
+--- !u!114 &1487172644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1487172639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1df48ddda182b384db7fe2b3f343d213, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1498762949
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -652,7 +665,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 134676, guid: 6488b6e6bbe8a9c4585b531a71d8211c, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 440718, guid: 6488b6e6bbe8a9c4585b531a71d8211c, type: 3}
       propertyPath: m_LocalScale.x
